@@ -1,5 +1,5 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Chinmay studying at IPCW, Delhi University
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Chinmay here. I am a CS student at IPCW, Delhi University
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Data Structures
 

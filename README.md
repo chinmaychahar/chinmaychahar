@@ -2,7 +2,7 @@
 I am Chinmay studying at IPCW, Delhi University
 - 😄 Pronouns: She/Her
 
-![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaychahar&show_icons=true&theme=tokyonight&count_private=true)
+![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaychahar&show_icons=true&theme=tokyonight&count_private=true&hide=stars,issues)
 <!--
 **chinmaychahar/chinmaychahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

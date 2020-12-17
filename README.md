@@ -3,7 +3,7 @@ Chinmay here. I am a CS student at IPCW, Delhi University
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Data Structures
 
-
+![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaychahar&show_icons=true&count_private=true&hide=stars,issues)
 <!--
 **chinmaychahar/chinmaychahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

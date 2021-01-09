@@ -2,6 +2,7 @@
 I am Chinmay, a CS student from Delhi University
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Data Structures
+- ⚡ Fun fact: I am a blogger. Check out my blog [here](https://chinmaychahar.medium.com/)
 
 ![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaychahar&show_icons=true&count_private=true&hide=stars,issues)
 <!--
@@ -13,5 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ..
+
 -->

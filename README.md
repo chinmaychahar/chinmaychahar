@@ -1,7 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I am Chinmay, a CS student from Delhi University
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing
 - ⚡ Fun fact: I am a blogger. Check out my blog [here](https://chinmaychahar.medium.com/)
 
 ![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaychahar&show_icons=true&count_private=true&hide=stars,issues)

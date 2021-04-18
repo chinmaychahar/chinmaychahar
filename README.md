@@ -1,5 +1,5 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am Chinmay, a CS student from Delhi University
+I am Chinmay Chahar, a CS student from Delhi University
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Natural Language Processing
 - ⚡ Fun fact: I am a blogger. Check out my blog [here](https://chinmaychahar.medium.com/)
